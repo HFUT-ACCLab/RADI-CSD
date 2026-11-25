@@ -1,0 +1,11 @@
+{
+  "SpaceX_train":{
+    "file_name":"full_content_train.json"
+  },
+  "SpaceX_eval":{
+    "file_name":"full_content_dev.json"
+  },
+  "SpaceX_test":{
+    "file_name":"full_content_test.json"
+  }
+}

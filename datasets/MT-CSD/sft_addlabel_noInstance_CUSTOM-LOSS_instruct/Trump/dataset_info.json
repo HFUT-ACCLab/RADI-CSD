@@ -1,0 +1,11 @@
+{
+  "Trump_train":{
+    "file_name":"full_content_train.json"
+  },
+  "Trump_eval":{
+    "file_name":"full_content_dev.json"
+  },
+  "Trump_test":{
+    "file_name":"full_content_test.json"
+  }
+}

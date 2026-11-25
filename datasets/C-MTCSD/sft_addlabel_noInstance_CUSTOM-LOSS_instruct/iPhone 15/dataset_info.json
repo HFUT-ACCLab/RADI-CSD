@@ -1,0 +1,11 @@
+{
+  "iPhone 15_train":{
+    "file_name":"full_content_train.json"
+  },
+  "iPhone 15_eval":{
+    "file_name":"full_content_dev.json"
+  },
+  "iPhone 15_test":{
+    "file_name":"full_content_test.json"
+  }
+}

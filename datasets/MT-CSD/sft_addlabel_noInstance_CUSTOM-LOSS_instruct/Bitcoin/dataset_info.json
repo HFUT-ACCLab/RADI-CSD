@@ -1,0 +1,11 @@
+{
+  "Bitcoin_train":{
+    "file_name":"full_content_train.json"
+  },
+  "Bitcoin_eval":{
+    "file_name":"full_content_dev.json"
+  },
+  "Bitcoin_test":{
+    "file_name":"full_content_test.json"
+  }
+}

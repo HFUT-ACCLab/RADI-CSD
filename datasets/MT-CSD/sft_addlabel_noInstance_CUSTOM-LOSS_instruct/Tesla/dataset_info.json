@@ -1,0 +1,11 @@
+{
+  "Tesla_train":{
+    "file_name":"full_content_train.json"
+  },
+  "Tesla_eval":{
+    "file_name":"full_content_dev.json"
+  },
+  "Tesla_test":{
+    "file_name":"full_content_test.json"
+  }
+}

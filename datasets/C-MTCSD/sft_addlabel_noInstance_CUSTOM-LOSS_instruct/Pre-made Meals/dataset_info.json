@@ -1,0 +1,11 @@
+{
+  "Pre-made Meals_train":{
+    "file_name":"full_content_train.json"
+  },
+  "Pre-made Meals_eval":{
+    "file_name":"full_content_dev.json"
+  },
+  "Pre-made Meals_test":{
+    "file_name":"full_content_test.json"
+  }
+}

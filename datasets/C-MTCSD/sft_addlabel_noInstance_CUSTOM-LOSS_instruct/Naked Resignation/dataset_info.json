@@ -1,0 +1,11 @@
+{
+  "Naked Resignation_train":{
+    "file_name":"full_content_train.json"
+  },
+  "Naked Resignation_eval":{
+    "file_name":"full_content_dev.json"
+  },
+  "Naked Resignation_test":{
+    "file_name":"full_content_test.json"
+  }
+}

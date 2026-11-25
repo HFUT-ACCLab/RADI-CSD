@@ -1,0 +1,14 @@
+{
+  "Biden_train":{
+    "file_name":"full_content_train.json"
+  },
+  "Biden_eval":{
+    "file_name":"full_content_dev.json"
+  },
+  "Biden_test":{
+    "file_name":"full_content_test.json"
+  },
+  "Biden_train_1":{
+    "file_name":"full_content_train_1.json"
+  }
+}

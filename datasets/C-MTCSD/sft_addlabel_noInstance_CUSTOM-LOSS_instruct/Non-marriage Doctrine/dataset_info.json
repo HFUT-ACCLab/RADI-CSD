@@ -1,0 +1,11 @@
+{
+  "Non-marriage Doctrine_train":{
+    "file_name":"full_content_train.json"
+  },
+  "Non-marriage Doctrine_eval":{
+    "file_name":"full_content_dev.json"
+  },
+  "Non-marriage Doctrine_test":{
+    "file_name":"full_content_test.json"
+  }
+}

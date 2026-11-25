@@ -1,0 +1,11 @@
+{
+  "Apollo Go_train":{
+    "file_name":"full_content_train.json"
+  },
+  "Apollo Go_eval":{
+    "file_name":"full_content_dev.json"
+  },
+  "Apollo Go_test":{
+    "file_name":"full_content_test.json"
+  }
+}
