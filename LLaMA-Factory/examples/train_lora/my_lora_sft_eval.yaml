@@ -1,0 +1,19 @@
+### model
+model_name_or_path: /home/user_home/huggingface_hub/huggingface_data/Meta-Llama-3.1-8B-Instruct
+adapter_name_or_path: /home/user_home/qiankunjie/project/First-exam/Llama/sft/checkpoint-42
+trust_remote_code: true
+
+### method
+finetuning_type: lora
+
+### dataset
+task: mmlu_test # mmlu_test, ceval_validation, cmmlu_test
+template: fewshot
+n_shot: 5
+
+### output
+save_dir: /home/user_home/qiankunjie/project/First-exam/Llama/sft/test_out_predict1_byeval
+
+### eval
+batch_size: 4
+
